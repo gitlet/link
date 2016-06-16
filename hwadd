@@ -1,0 +1,10 @@
+gl@gl-ProLiant-ML110-G6:~$ arp 
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.1.5              ether   5c:f3:fc:55:fa:5a   C                     enp30s0
+192.168.1.1              ether   18:b1:69:18:94:08   C                     enp30s0
+192.168.1.118            ether   f8:0f:41:63:7c:f0   C                     enp30s0
+169.254.121.4                    (incomplete)                              enp30s0
+192.168.1.123            ether   90:b1:1c:64:6e:75   C                     enp30s0
+192.168.1.150            ether   b4:ce:f6:6d:05:26   C                     enp30s0
+gl@gl-ProLiant-ML110-G6:~$ 
+
